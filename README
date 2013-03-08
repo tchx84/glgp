@@ -1,0 +1,4 @@
+glgp is a mono-objetive optimization library for solving
+binary-classification problems. The solutions are represented
+as classification rules. These rules are encoded and evolved
+as grammar-based linear genetic programming inviduals.
